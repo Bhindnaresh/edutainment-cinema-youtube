@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/edutainment-cinema-youtube/static/css/main.7064deb2.css",
+    "main.js": "/edutainment-cinema-youtube/static/js/main.7a8f2cad.js",
+    "index.html": "/edutainment-cinema-youtube/index.html",
+    "main.7064deb2.css.map": "/edutainment-cinema-youtube/static/css/main.7064deb2.css.map",
+    "main.7a8f2cad.js.map": "/edutainment-cinema-youtube/static/js/main.7a8f2cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.7a8f2cad.js"
+  ]
+}
