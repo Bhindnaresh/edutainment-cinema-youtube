@@ -16,7 +16,11 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
+<<<<<<< HEAD
   { name: 'Ankit Singh Tomar', icon: <CodeIcon />, }, // JS Mastery // PP TECHNO PROGRAM
+=======
+  { name: 'Ankit Singh Tomar', icon: <CodeIcon />, },
+>>>>>>> ddefd12f02d99dac89e2bddfb003879c3ea28687
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
